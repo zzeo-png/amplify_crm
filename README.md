@@ -1,2 +1,2 @@
-# amplify_crm
-Amplify Scaling Lead Management System
+# amplify_lms
+ Amplify Scaling Lead Management System
