@@ -1,0 +1,44 @@
+.login{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.login_container{
+    justify-content: center;
+    background-color: #0e0e0e;
+    border-radius: .3em;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 5em 10em;
+    padding-bottom: 8em;
+}
+
+.login_container form{
+    display: flex;
+    flex-direction: column;
+}
+
+.login_container form label{
+    margin-top: 2em;
+}
+
+.login_container form input{
+    font-family: 'Lexend', sans-serif;
+    padding: .5em;
+    font-weight: 600;
+    font-size: 1.1em;
+}
+
+h3{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+h1{
+    font-weight: 900;
+    margin-bottom: 0;
+}
